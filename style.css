@@ -1,0 +1,43 @@
+/* Index */
+
+a.btn {
+  background: rgb(196, 33, 168);
+  border-color: transparent;
+}
+
+a.btn:hover {
+  background: rgba(196, 33, 169, 0.644);
+  border-color: transparent;
+}
+
+.card-img-top {
+  max-width: 300px;
+  max-height: 100px;
+}
+
+html.background-index {
+  font-size: 10px;
+  background: linear-gradient(120deg, #fd923b 60%, #ffc64b 60%);
+  background-size: cover;
+}
+
+body.background-index {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 18rem;
+  margin: 20px;
+  font-size: 15px;
+  color: blueviolet;
+  background-color: #ffffff;
+}
+
+.card .card-body {
+  color: rgb(196, 33, 168);
+  background-color: #fff;
+  text-align: center;
+}
